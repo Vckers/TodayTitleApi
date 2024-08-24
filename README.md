@@ -23,7 +23,7 @@
 > 示例站点可能由于访问量或者长久未维护而访问异常  
 > 若您也使用了本 API 搭建了网站，欢迎提交您的站点链接
 
-- [今日热榜 - https://hot.imsyy.top/](https://hot.imsyy.top/)
+- [今日热榜 - todaytitle.com](https://todaytitle.com)
 
 ## 🎉 总览
 
